@@ -1,14 +1,43 @@
-layout_spectrum: 1
+typography_spectrum: 0.3506981
 color:
-  saturation: 0.5966703
-  lightness: 0.5343716
-  brandStrength: 0.3813578
+  saturation: 1
+  brandStrength: 0.9747583
+  lightness: 0.5354457
   brandColors:
-    - '#150F0C'
-    - '#FFFFFB'
-    - '#783016'
-    - '#F0C9A2'
-    - '#938688'
-  rhythmicContrast: 0.537594
-typography_spectrum: 0.1068743
-name: 'ClaudioLaraOficial '
+    - '#E4C6AE'
+    - '#080300'
+    - '#FFFCF9'
+    - '#7C5D49'
+    - '#A07C62'
+  rhythmicContrast: 1
+github: true
+layout_spectrum: 0.8469387
+author:
+  name: Claudio lara
+  email: nlpclaudiolara@gmail.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/7239b411-4b47-4c9f-85d7-14b957528632.png
+name: GenialidadebyClaudiolara
+url: 'http://www.claudiolara.com.br'
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+title: Genialidade by Claudio Lara
+content: []
+description: Aprenda a ser genial
+purpose:
+  - type: contact
+    url: 'mailto:nlpclaudiolara@gmail.com'
+    label: Contato
+  - type: external
+    url: 'http://www.sipnl.com.br'
+    label: Cursos e Treinamentos
