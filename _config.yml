@@ -34,7 +34,4 @@ collections:
 title: Genialidade
 content: []
 description: Aprenda a ser genial com Claudio Lara
-purpose:
-  - type: contact
-    url: 'mailto:nlpclaudiolara@gmail.com'
-    label: Contato
+purpose: []
