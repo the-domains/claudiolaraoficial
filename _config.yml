@@ -38,6 +38,3 @@ purpose:
   - type: contact
     url: 'mailto:nlpclaudiolara@gmail.com'
     label: Contato
-  - type: external
-    url: 'http://www.sipnl.com.br'
-    label: Cursos e Treinamentos
