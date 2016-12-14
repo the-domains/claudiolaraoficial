@@ -34,4 +34,7 @@ collections:
 title: Genialidade
 content: []
 description: Aprenda a ser genial com Claudio Lara
-purpose: []
+purpose:
+  - type: contact
+    url: 'tel:+551138450048'
+    label: Ligue para (11)38450048
