@@ -34,4 +34,7 @@ collections:
 title: Genialidade
 content: []
 description: Aprenda a ser genial com Claudio Lara
-purpose: []
+purpose:
+  - type: external
+    url: 'https://www.facebook.com'
+    label: Facebook Page
