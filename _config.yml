@@ -1,4 +1,3 @@
-layout_spectrum: 0.1748624779360535
 typography_spectrum: 0.355168492301819
 color:
   saturation: 0.9974082603447582
@@ -12,6 +11,7 @@ color:
     - '#A07C62'
   rhythmicContrast: 0.9977847482378382
 github: true
+layout_spectrum: 0.1748624779360535
 author:
   name: Claudio lara
   email: nlpclaudiolara@gmail.com
