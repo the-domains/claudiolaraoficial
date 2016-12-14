@@ -1,17 +1,17 @@
-typography_spectrum: 0.3506981
+layout_spectrum: 0.1748624779360535
+typography_spectrum: 0.355168492301819
 color:
-  saturation: 1
-  brandStrength: 0.9747583
-  lightness: 0.5354457
+  saturation: 0.9974082603447582
+  brandStrength: 0.9705464657223645
+  lightness: 0.5308801668905423
   brandColors:
     - '#E4C6AE'
     - '#080300'
     - '#FFFCF9'
     - '#7C5D49'
     - '#A07C62'
-  rhythmicContrast: 1
+  rhythmicContrast: 0.9977847482378382
 github: true
-layout_spectrum: 0.8469387
 author:
   name: Claudio lara
   email: nlpclaudiolara@gmail.com
